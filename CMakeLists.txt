@@ -4,9 +4,9 @@ project(Gomoku)
 set(CMAKE_CXX_STANDARD 14)
 
 # Import EasyX library files.
-set(EASYX_DIR D:\\Project\\lib\\EasyX)
-include_directories(D:\\Project\\lib\\EasyX\\include)
-link_directories(D:\\Project\\lib\\EasyX\\lib64)
+set(EASYX_DIR "YOUR EASYX DIRECTORIES")
+include_directories(EASYX_DIR\\include)
+link_directories(EASYX_DIR\\lib64)
 link_libraries(libeasyx.a)
 
 add_executable(Gomoku include/defines.h
