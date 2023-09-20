@@ -3,7 +3,7 @@
 ### 1.Introduction	
 
 ​	**Gomoku** is a simple coursework of Northwestern Polytechnical University's class for the first-year students. This project got 85/100 points while the highest point in class is 86/100.
-
+The course code is U14M21090.
 ​	Now let's get to the point, **Gomoku** realize a simple "artificial intelligence" compete with player. I have used *standard C++ 14* and *CMAKE*, developed by CLION. And this project has
 import the open-source graphics library *EasyX*.
 
